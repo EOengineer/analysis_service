@@ -1,6 +1,7 @@
 # AnalysisService
 
 This repository provides the following features:
+
 	* Uses docker-compose Version 2 syntax and features (https://docs.docker.com/compose/)
 	* Built from compact alpine docker image for minimal footprint
 	* A starting point for quickly bootstrapping an Elixir/Phoenix app with common dependancies
