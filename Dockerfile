@@ -29,6 +29,7 @@ RUN apk --update add build-base \
                      git \
                      inotify-tools \
                      postgresql-client \
+                     nodejs \
                      wget && \
     rm -rf /var/cache/apk/* && \
     update-ca-certificates
